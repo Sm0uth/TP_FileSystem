@@ -1,0 +1,7 @@
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\Test_FileSystem\bin\Debug\Test_FileSystem.dll
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\Test_FileSystem\bin\Debug\Test_FileSystem.pdb
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\Test_FileSystem\bin\Debug\TP_Arborescence.exe
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\Test_FileSystem\bin\Debug\TP_Arborescence.pdb
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\Test_FileSystem\obj\Debug\Test_FileSystem.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\Test_FileSystem\obj\Debug\Test_FileSystem.dll
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\Test_FileSystem\obj\Debug\Test_FileSystem.pdb

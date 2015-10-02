@@ -1,0 +1,6 @@
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\TP_Arborescence\bin\Debug\TP_Arborescence.exe.config
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\TP_Arborescence\obj\Debug\TP_Arborescence.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\TP_Arborescence\bin\Debug\TP_Arborescence.exe
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\TP_Arborescence\bin\Debug\TP_Arborescence.pdb
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\TP_Arborescence\obj\Debug\TP_Arborescence.exe
+d:\Documents\Visual Studio 2012\Projects\TP_Arborescence\TP_Arborescence\obj\Debug\TP_Arborescence.pdb
